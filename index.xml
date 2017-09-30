@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://github.com/night-flight/night-flight.github.io.git/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Sep 2017 16:32:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://github.com/night-flight/night-flight.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New post</title>
+      <link>https://github.com/night-flight/night-flight.github.io.git/post/new_post/</link>
+      <pubDate>Sat, 30 Sep 2017 16:32:29 +0900</pubDate>
+      
+      <guid>https://github.com/night-flight/night-flight.github.io.git/post/new_post/</guid>
+      <description> New Post  My new post.  </description>
+    </item>
+    
+  </channel>
+</rss>
